@@ -1,0 +1,14 @@
+D:\01.Program Coding\02.C#\Practice\BinaryDataReadAndDBInsert\BinaryDataReadAndDBInsert\bin\Debug\BinaryDataReadAndDBInsert.exe.config
+D:\01.Program Coding\02.C#\Practice\BinaryDataReadAndDBInsert\BinaryDataReadAndDBInsert\bin\Debug\BinaryDataReadAndDBInsert.exe
+D:\01.Program Coding\02.C#\Practice\BinaryDataReadAndDBInsert\BinaryDataReadAndDBInsert\bin\Debug\BinaryDataReadAndDBInsert.pdb
+D:\01.Program Coding\02.C#\Practice\BinaryDataReadAndDBInsert\BinaryDataReadAndDBInsert\obj\Debug\BinaryDataReadAndDBInsert.csprojAssemblyReference.cache
+D:\01.Program Coding\02.C#\Practice\BinaryDataReadAndDBInsert\BinaryDataReadAndDBInsert\obj\Debug\BinaryDataReadAndDBInsert.Properties.Resources.resources
+D:\01.Program Coding\02.C#\Practice\BinaryDataReadAndDBInsert\BinaryDataReadAndDBInsert\obj\Debug\BinaryDataReadAndDBInsert.csproj.GenerateResource.cache
+D:\01.Program Coding\02.C#\Practice\BinaryDataReadAndDBInsert\BinaryDataReadAndDBInsert\obj\Debug\BinaryDataReadAndDBInsert.csproj.CoreCompileInputs.cache
+D:\01.Program Coding\02.C#\Practice\BinaryDataReadAndDBInsert\BinaryDataReadAndDBInsert\obj\Debug\BinaryDataReadAndDBInsert.exe
+D:\01.Program Coding\02.C#\Practice\BinaryDataReadAndDBInsert\BinaryDataReadAndDBInsert\obj\Debug\BinaryDataReadAndDBInsert.pdb
+D:\01.Program Coding\02.C#\Practice\BinaryDataReadAndDBInsert\BinaryDataReadAndDBInsert\bin\Debug\MySql.Data.dll
+D:\01.Program Coding\02.C#\Practice\BinaryDataReadAndDBInsert\BinaryDataReadAndDBInsert\bin\Debug\Google.Protobuf.dll
+D:\01.Program Coding\02.C#\Practice\BinaryDataReadAndDBInsert\BinaryDataReadAndDBInsert\bin\Debug\MySql.Data.xml
+D:\01.Program Coding\02.C#\Practice\BinaryDataReadAndDBInsert\BinaryDataReadAndDBInsert\obj\Debug\BinaryDataReadAndDBInsert.csproj.CopyComplete
+D:\01.Program Coding\02.C#\Practice\BinaryDataReadAndDBInsert\BinaryDataReadAndDBInsert\obj\Debug\BinaryDataReadAndDBInsert.Form1.resources
